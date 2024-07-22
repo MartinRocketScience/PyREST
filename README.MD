@@ -1,6 +1,8 @@
 
 # PyREST
 
+This is a ready-to-use framework template with integrated libraries and project structure for implementing automated REST API tests using Gherkin (Behave) and the JSON Model Pattern (similar to the Page Object Model). The framework also includes integrated OAUTH2 implementation.
+
 ## Setup Instructions
 
 ### 1. Create and activate a virtual environment
@@ -8,15 +10,15 @@
 #### On Windows
 
 ```cmd
-python -m venv venv
-venv\Scripts\activate
+python -m venv PyREST
+PyREST\Scripts\activate
 ```
 
 #### On macOS/Linux
 
 ```bash
-python -m venv venv
-source venv/bin/activate
+python -m venv PyREST
+source PyREST/bin/activate
 ```
 
 ### 2. Install required packages
