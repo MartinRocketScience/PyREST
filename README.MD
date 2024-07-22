@@ -3,6 +3,8 @@
 
 This is a ready-to-use framework template with integrated libraries and project structure for implementing automated REST API tests using Gherkin (Behave) and the JSON Model Pattern (similar to the Page Object Model). The framework also includes integrated OAUTH2 implementation.
 
+Feel free to adapt it into your project.
+
 ## Setup Instructions
 
 ### 1. Create and activate a virtual environment
